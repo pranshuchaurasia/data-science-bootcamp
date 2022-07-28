@@ -1,0 +1,13 @@
+CRITICAL 2022-07-28 15:33:18,505 root  This is a critical error for us
+ERROR 2022-07-28 15:33:18,505 root  [Errno 2] No such file or directory: 'pran.txt'
+INFO 2022-07-28 15:40:58,679 root  Trying to read te file
+CRITICAL 2022-07-28 15:40:58,680 root  This is a critical error for us
+ERROR 2022-07-28 15:40:58,680 root  [Errno 2] No such file or directory: 'pran.txt'
+INFO 2022-07-28 15:41:31,306 root  Trying to read te file
+CRITICAL 2022-07-28 15:41:31,306 root  This is a critical error for us
+ERROR 2022-07-28 15:41:31,306 root  [Errno 2] No such file or directory: 'pran.txt'
+ERROR 2022-07-28 15:41:31,306 root  [Errno 2] No such file or directory: 'pran.txt'
+Traceback (most recent call last):
+  File "C:\Users\Pranshu Chaurasia\Desktop\data-science-bootcamp\data-science-bootcamp\python-assignment\practice_env\test4.py", line 7, in <module>
+    with open("pran.txt","r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'pran.txt'

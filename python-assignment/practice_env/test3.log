@@ -1,0 +1,16 @@
+INFO 2022-07-28 01:39:31,401 root  The number entered by the user is 3 and 0
+INFO 2022-07-28 01:39:59,021 root  The number entered by the user is 3 and 6
+INFO 2022-07-28 01:44:18,480 root  The number entered by the user is 3 and 0
+INFO 2022-07-28 01:44:18,480 root  WE are into function
+ERROR 2022-07-28 01:44:18,480 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\Pranshu Chaurasia\Desktop\data-science-bootcamp\data-science-bootcamp\python-assignment\practice_env\test3.py", line 9, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-28 01:44:36,319 root  The number entered by the user is 3 and 7
+INFO 2022-07-28 01:44:36,319 root  WE are into function
+INFO 2022-07-28 01:44:36,319 root  We have completed division operation
+INFO 2022-07-28 01:47:24,177 root  The number entered by the user is 3 and 8
+INFO 2022-07-28 01:47:24,177 root  WE are into function
+INFO 2022-07-28 01:47:24,177 root  We have completed division operation
+INFO 2022-07-28 01:47:24,177 root  result of code is 0.375
