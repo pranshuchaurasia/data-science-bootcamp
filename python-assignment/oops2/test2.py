@@ -1,8 +1,8 @@
-import test1
-print(test1)
+#import test1
+#print(test1)
 
-obj3=test1.Person1("yoyp","honry",2000)
-print(obj3.yob1)
+#obj3=test1.Person1("yoyp","honry",2000)
+#print(obj3.yob1)
 
 
 class Person:

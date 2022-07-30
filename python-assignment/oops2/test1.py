@@ -1,3 +1,9 @@
+#from test2 import Person
+# import utils.util1  #First method to import modules and packages in pythons; second method below
+from utils.util1 import Person2
+
+obj=Person2("rohan","tibrewal",1324)
+print(obj.yob1)
 class Person1:
     def __init__(self,name,surname,yob):
         self.name1=name
