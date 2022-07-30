@@ -1,6 +1,13 @@
+import test1
+print(test1)
+
+obj3=test1.Person1("yoyp","honry",2000)
+print(obj3.yob1)
+
+
 class Person:
-    _name="Pranshu"
-    __surname="chaurasia"
+    _name="Pra"
+    __surname="chau"
     yob=1998
 
     def _age(self,current_year):
