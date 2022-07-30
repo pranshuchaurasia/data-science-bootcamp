@@ -4,6 +4,7 @@ from utils.util1 import Person2
 
 obj=Person2("rohan","tibrewal",1324)
 print(obj.yob1)
+print(obj.name1)
 class Person1:
     def __init__(self,name,surname,yob):
         self.name1=name
