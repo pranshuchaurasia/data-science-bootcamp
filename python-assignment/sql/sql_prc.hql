@@ -64,3 +64,5 @@ update bank_details set contact='known' , y='yes' where month = 'may';
 update bank_details set `default` = 'NULL' where `default` ='no';
 
 delete from  bank_details where job='unknown';
+
+#functions in sql are procedures
