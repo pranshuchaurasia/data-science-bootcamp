@@ -7,11 +7,11 @@ class bank:
     def deposite(self):
         print("This will show deposit account")
 
-class HDFC_bank(bank):
+class HDFC_bank():
     def hdfc_to_icici(self):
         print("It will show transaction from hdfc to icici bank ")
 
-class icici(HDFC_bank):
+class icici(bank,HDFC_bank):
     pass
 
 i=icici()
