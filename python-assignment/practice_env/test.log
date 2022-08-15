@@ -21,3 +21,12 @@ INFO:root:[2, 45, 3, 2, 6, 76, 45, 2, 4, 5]
 WARNING:root:They have found 2 in the list
 INFO:root:[2, 45, 3, 2, 6, 76, 45, 2, 4, 5]
 WARNING:root:They have found 2 in the list
+INFO:root:THis is my first time using logging
+WARNING:root:This will load warning message
+ERROR:root:THis is an error message
+INFO:root:[2, 45, 3, 2, 6, 76, 45, 2, 4, 5]
+WARNING:root:They have found 2 in the list
+INFO:root:[2, 45, 3, 2, 6, 76, 45, 2, 4, 5]
+WARNING:root:They have found 2 in the list
+INFO:root:[2, 45, 3, 2, 6, 76, 45, 2, 4, 5]
+WARNING:root:They have found 2 in the list
