@@ -20,9 +20,16 @@ class ineuron1:
     def student_change(self):
         self.__students1 = "big data"
 
+    def student_change_new(self,new_value):
+        self.__students1 = "statistics"
+
 i1=ineuron1()
 i1.students()
 i1.students1="data analytics"
 i1.students()
 i1.student_change()
 i1.students()
+i1.student_change_new("statistics")
+i1.students()
+
+
