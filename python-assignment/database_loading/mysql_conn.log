@@ -1,0 +1,12 @@
+
+INFO 2022-08-18 12:16:17,648 root  Log after each new run.
+INFO 2022-08-18 12:16:17,648 root  Trying to connect to database.
+INFO 2022-08-18 12:16:17,667 root  Connection to mysql server in localhost successful.
+INFO 2022-08-18 12:16:17,667 root  <mysql.connector.connection_cext.CMySQLConnection object at 0x00000240B00D2EE0>
+INFO 2022-08-18 12:16:17,667 root  CMySQLCursor: (Nothing executed yet)
+INFO 2022-08-18 12:16:17,667 root  Trying to create database dress_records table
+INFO 2022-08-18 12:16:17,669 root  Database dress_records creation successful
+INFO 2022-08-18 12:16:17,669 root  Creating the Table dress_dataset
+INFO 2022-08-18 12:16:17,671 root  Table dress_dataset creation successful
+INFO 2022-08-18 12:16:17,671 root  Creating the Table attributes_dataset
+INFO 2022-08-18 12:16:17,672 root  Table attributes_dataset creation successful
