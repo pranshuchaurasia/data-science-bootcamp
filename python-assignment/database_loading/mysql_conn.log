@@ -1,10 +1,35 @@
-INFO 2022-08-19 01:39:59,540 root  Log after each new run.
-INFO 2022-08-19 01:39:59,540 root  Trying to connect to database.
-INFO 2022-08-19 01:39:59,561 root  Connection to mysql server in localhost successful.
-INFO 2022-08-19 01:39:59,561 root  <mysql.connector.connection_cext.CMySQLConnection object at 0x000002A806B88430>
-INFO 2022-08-19 01:39:59,561 root  CMySQLCursor: (Nothing executed yet)
-INFO 2022-08-19 01:39:59,561 root  Trying to create database dress_records table
-INFO 2022-08-19 01:39:59,562 root  Database dress_records creation successful
-INFO 2022-08-19 01:39:59,562 root  Creating the Table dress_dataset
-INFO 2022-08-19 01:39:59,571 root  Table dress_dataset creation successful
-INFO 2022-08-19 01:40:00,824 root  The module my-sql connection in data-loading python file is working perfectly.
+INFO 2022-08-23 15:28:15,005 root  Log after each new run.
+INFO 2022-08-23 15:28:15,006 root  Trying to connect to database.
+INFO 2022-08-23 15:28:15,024 root  Connection to mysql server in localhost successful.
+INFO 2022-08-23 15:28:15,024 root  <mysql.connector.connection_cext.CMySQLConnection object at 0x0000023E629B8DC0>
+INFO 2022-08-23 15:28:15,024 root  CMySQLCursor: (Nothing executed yet)
+INFO 2022-08-23 15:28:15,024 root  Trying to create database dress_records table
+INFO 2022-08-23 15:28:15,026 root  Database dress_records creation successful
+INFO 2022-08-23 15:28:15,026 root  Creating the Table dress_dataset
+INFO 2022-08-23 15:28:15,034 root  Table dress_dataset creation successful
+INFO 2022-08-23 15:28:15,034 root  Creating the Table attributes_dataset
+INFO 2022-08-23 15:28:15,041 root  Table attributes_dataset creation successful
+INFO 2022-08-23 15:28:28,443 root  Log after each new run.
+INFO 2022-08-23 15:28:28,444 root  Trying to connect to database.
+INFO 2022-08-23 15:28:28,462 root  Connection to mysql server in localhost successful.
+INFO 2022-08-23 15:28:28,462 root  <mysql.connector.connection_cext.CMySQLConnection object at 0x000001F1BC0AFCD0>
+INFO 2022-08-23 15:28:28,462 root  CMySQLCursor: (Nothing executed yet)
+INFO 2022-08-23 15:28:28,462 root  Trying to create database dress_records table
+INFO 2022-08-23 15:28:28,464 root  Database dress_records creation successful
+INFO 2022-08-23 15:28:28,464 root  Creating the Table dress_dataset
+INFO 2022-08-23 15:28:28,466 root  Table dress_dataset creation successful
+INFO 2022-08-23 15:28:28,466 root  Creating the Table attributes_dataset
+INFO 2022-08-23 15:28:28,468 root  Table attributes_dataset creation successful
+INFO 2022-08-23 15:28:28,724 root  The module my-sql connection in data-loading python file is working perfectly.
+INFO 2022-08-23 15:31:33,753 root  Log after each new run.
+INFO 2022-08-23 15:31:33,753 root  Trying to connect to database.
+INFO 2022-08-23 15:31:33,772 root  Connection to mysql server in localhost successful.
+INFO 2022-08-23 15:31:33,772 root  <mysql.connector.connection_cext.CMySQLConnection object at 0x00000175228170D0>
+INFO 2022-08-23 15:31:33,772 root  CMySQLCursor: (Nothing executed yet)
+INFO 2022-08-23 15:31:33,772 root  Trying to create database dress_records table
+INFO 2022-08-23 15:31:33,774 root  Database dress_records creation successful
+INFO 2022-08-23 15:31:33,774 root  Creating the Table dress_dataset
+INFO 2022-08-23 15:31:33,782 root  Table dress_dataset creation successful
+INFO 2022-08-23 15:31:33,782 root  Creating the Table attributes_dataset
+INFO 2022-08-23 15:31:33,789 root  Table attributes_dataset creation successful
+INFO 2022-08-23 15:31:34,057 root  The module my-sql connection in data-loading python file is working perfectly.
