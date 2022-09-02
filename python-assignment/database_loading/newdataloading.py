@@ -45,13 +45,13 @@ cursor1 = mysql_conn.mydb.cursor()
 data2 = pd.read_excel(r'C:\Users\Pranshu Chaurasia\Desktop\data-science-bootcamp\data-science-bootcamp\python-assignment\dataset\Attribute DataSet.xlsx')
 data2.to_csv('C:\\Users\\Pranshu Chaurasia\\Desktop\\data-science-bootcamp\\data-science-bootcamp\\python-assignment\\dataset\\Attribute DataSet.csv',index=False)
 data3=data = pd.read_csv(r'C:\Users\Pranshu Chaurasia\Desktop\data-science-bootcamp\data-science-bootcamp\python-assignment\dataset\Attribute DataSet.csv')
-df = pd.DataFrame(data3)
+df1 = pd.DataFrame(data3)
 #df.isnull().sum()
-df=df.fillna(value='Not available')
-df.isnull().sum()
+df1=df1.fillna(value='Not available')
+df1.isnull().sum()
 sql = "INSERT INTO dress_records.attributes_dataset values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
-for j in range (df.shape[0]):
-        temp_dict= dict(df.iloc[j,:])
+for j in range (df1.shape[0]):
+        temp_dict= dict(df1.iloc[j,:])
         temp_values=temp_dict.values()
         temp_tup=tuple(temp_values)
         l=[]
