@@ -1,0 +1,5 @@
+INFO 2022-09-09 22:31:36,147 root  Log after each new run.
+INFO 2022-09-09 22:31:36,147 root  Trying to connect to database.
+INFO 2022-09-09 22:31:36,162 root  Connection to mysql server in localhost successful.
+INFO 2022-09-09 22:31:36,162 root  <mysql.connector.connection_cext.CMySQLConnection object at 0x000002B5B26F4640>
+INFO 2022-09-09 22:31:36,162 root  CMySQLCursor: (Nothing executed yet)
